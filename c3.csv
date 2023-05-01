@@ -1,0 +1,40 @@
+184_store_devices,frequency,percentage,cumulative_perc
+Smartphone,52,0.30409356725146197,0.3040935672514621
+Analog cash register,16,0.0935672514619883,0.39766081871345044
+POS system (i.e. computer + bar code scanner + printer),9,0.05263157894736842,0.4502923976608189
+"POS system (i.e. computer + bar code scanner + printer),Smartphone",9,0.05263157894736842,0.5029239766081873
+"Analog cash register,Smartphone",8,0.04678362573099415,0.5497076023391815
+"Security cameras,Smartphone",7,0.04093567251461988,0.5906432748538013
+"Dataphone (i.e. card payments),Security cameras,Smartphone",5,0.029239766081871343,0.6198830409356726
+Security cameras,5,0.029239766081871343,0.649122807017544
+"POS system (i.e. computer + bar code scanner + printer),Security cameras,Smartphone",4,0.023391812865497075,0.6725146198830411
+"Analog cash register,Security cameras",4,0.023391812865497075,0.6959064327485381
+"Analog cash register,Security cameras,Smartphone",4,0.023391812865497075,0.7192982456140352
+Dataphone (i.e. card payments),4,0.023391812865497075,0.7426900584795323
+"Dataphone (i.e. card payments),POS system (i.e. computer + bar code scanner + printer),Smartphone",3,0.017543859649122806,0.7602339181286552
+"Dataphone (i.e. card payments),Security cameras",3,0.017543859649122806,0.777777777777778
+"Analog cash register,POS system (i.e. computer + bar code scanner + printer),Security cameras",3,0.017543859649122806,0.7953216374269009
+"Dataphone (i.e. card payments),Smartphone",3,0.017543859649122806,0.8128654970760237
+"Analog cash register,POS system (i.e. computer + bar code scanner + printer),Security cameras,Smartphone",3,0.017543859649122806,0.8304093567251466
+"Dataphone (i.e. card payments),POS system (i.e. computer + bar code scanner + printer),Security cameras",2,0.011695906432748537,0.8421052631578951
+None,2,0.011695906432748537,0.8538011695906437
+"POS system (i.e. computer + bar code scanner + printer),Security cameras",2,0.011695906432748537,0.8654970760233922
+"Analog cash register,Dataphone (i.e. card payments),Security cameras,Smartphone",2,0.011695906432748537,0.8771929824561409
+"Analog cash register,Dataphone (i.e. card payments),Security cameras",2,0.011695906432748537,0.8888888888888894
+"Analog cash register,Dataphone (i.e. card payments)",2,0.011695906432748537,0.9005847953216379
+"Dataphone (i.e. card payments),POS system (i.e. computer + bar code scanner + printer)",2,0.011695906432748537,0.9122807017543865
+no,1,0.005847953216374269,0.9181286549707608
+"Dataphone (i.e. card payments),POS system (i.e. computer + bar code scanner + printer),Security cameras,Smartphone",1,0.005847953216374269,0.923976608187135
+"Analog cash register,Dataphone (i.e. card payments),POS system (i.e. computer + bar code scanner + printer)",1,0.005847953216374269,0.9298245614035092
+"Analog cash register,Dataphone (i.e. card payments),Smartphone",1,0.005847953216374269,0.9356725146198834
+Nothing ,1,0.005847953216374269,0.9415204678362576
+acepta pagos en efectivo ,1,0.005847953216374269,0.9473684210526319
+"Analog cash register,POS system (i.e. computer + bar code scanner + printer)",1,0.005847953216374269,0.9532163742690061
+Papel y celular,1,0.005847953216374269,0.9590643274853803
+Pesa y calculadora,1,0.005847953216374269,0.9649122807017545
+no cuenta con dispositivos ,1,0.005847953216374269,0.9707602339181287
+ninguno,1,0.005847953216374269,0.9766081871345029
+"Security cameras,bocina y ventilador",1,0.005847953216374269,0.9824561403508771
+"POS system (i.e. computer + bar code scanner + printer),bocina y pesa",1,0.005847953216374269,0.9883040935672514
+"Analog cash register,Dataphone (i.e. card payments),POS system (i.e. computer + bar code scanner + printer),Security cameras,Smartphone",1,0.005847953216374269,0.9941520467836256
+no tiene,1,0.005847953216374269,0.9999999999999998
